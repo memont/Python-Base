@@ -6,6 +6,21 @@ __author__ = 'memont'
 # Datetime:2018/8/15 12:53
 # Project :Python-Base
 
+'''
+import tkinter
+
+
+win = tkinter.Tk()
+win.title("Tkinter")
+win.geometry("400x400+200+200")
+
+
+
+# 进入消息循环
+win.mainloop()
+
+'''
+
 import tkinter
 
 # 创建主窗口
